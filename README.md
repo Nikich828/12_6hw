@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Система мониторинга Zabbix`" - `Лычагин Н.В.`
+# Домашнее задание к занятию "`Репликация и масштабирование. Часть 1`" - `Лычагин Н.В.`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -64,7 +64,7 @@
 ![alt text](https://github.com/Nikich828/12_6hw/blob/master/6.jpeg)
 
 Далее подключаемся через DBeaver и создаем таблицу на мастере, после этого автоматом создается таблица на слейве.
-![alt text](https://github.com/Nikich828/12_6hw/blob/master/7.jpeg)
-![alt text](https://github.com/Nikich828/12_6hw/blob/master/8.jpeg)
+![alt text](https://github.com/Nikich828/12_6hw/blob/master/7.png)
+![alt text](https://github.com/Nikich828/12_6hw/blob/master/8.png)
 
 
